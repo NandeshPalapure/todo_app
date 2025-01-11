@@ -1,4 +1,4 @@
-#To-Do App
+# To-Do App
 
 A minimal To-Do app built using **pure JavaScript** that lets users manage tasks directly from the console. The app includes functionality for adding, deleting, listing tasks, and quitting.
 
